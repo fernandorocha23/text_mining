@@ -1,0 +1,34 @@
+# Model checkpoints
+project/roberta_sentiment/
+project/roberta_weighted/
+project/distilroberta_sentiment/
+checkpoints/
+**/checkpoint-*/
+
+# Hugging Face / training artifacts
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Large outputs
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+secrets.py
+config.py
+
+# Python cache
+__pycache__/
+
+.idea/
