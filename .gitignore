@@ -1,6 +1,6 @@
 # Model checkpoints
-project/roberta_sentiment/
-project/roberta_weighted/
+models/roberta_sentiment/
+models/roberta_weighted/
 project/distilroberta_sentiment/
 checkpoints/
 **/checkpoint-*/
