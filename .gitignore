@@ -32,3 +32,10 @@ config.py
 __pycache__/
 
 .idea/
+# Project specific additions
+data/raw/
+data/processed/
+data/external/
+reports/figures/
+models/
+venv/

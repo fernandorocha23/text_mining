@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaboard
+nltk
+scikit-learn
+transformers
+torch
+textblob
+vaderSentiment
